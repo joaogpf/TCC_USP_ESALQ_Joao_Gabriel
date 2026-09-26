@@ -1,0 +1,5 @@
+cluster_label_original,cluster_name,clinical_interpretation,main_features
+A,Delta,"Choque, disfunção hepática e coagulopatia; maior risco de mortalidade","lactato alto, vasopressor, bilirrubina, choque"
+B,Beta,Pacientes mais idosos com disfunção renal predominante; gravidade intermediária,"creatinina elevada, idade alta, disfunção renal"
+C,Alpha,Perfil clínico mais leve; menor disfunção orgânica e mortalidade esperada,"baixo severity_score, lactato baixo, sem vasopressor"
+D,Gamma,Hiperinflamatório com instabilidade sistêmica; lactato e FC elevados,"FC elevada, lactato intermediário, taquicardia"

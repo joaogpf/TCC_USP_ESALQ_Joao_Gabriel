@@ -88,7 +88,6 @@ Os rótulos são **aproximações interpretativas** atribuídas por ranks de dom
 ├── PATIENTS.csv, ADMISSIONS.csv, ...      # Tabelas do MIMIC-III Clinical Database Demo
 ├── D_ICD_DIAGNOSES.csv, D_ITEMS.csv, ...  # Tabelas de dicionário
 ├── LICENSE.txt                            # Licença ODbL dos dados MIMIC-III Demo
-├── Derivation-Validation...pdf            # Artigo de referência (Seymour et al., 2019)
 ├── outputs_cluster_clinico/               # Resultados tabulares e figuras das Seções 5 a 11
 │   ├── results_clustering_comparison.csv
 │   ├── cluster_profile_summary.csv
